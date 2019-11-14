@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\obj\Debug\netcoreapp3.0\LearningConcurrent.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\obj\Debug\netcoreapp3.0\LearningConcurrent.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\bin\Debug\netcoreapp3.0\LearningConcurrent.exe
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\bin\Debug\netcoreapp3.0\LearningConcurrent.deps.json
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\bin\Debug\netcoreapp3.0\LearningConcurrent.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\bin\Debug\netcoreapp3.0\LearningConcurrent.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\bin\Debug\netcoreapp3.0\LearningConcurrent.dll
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\bin\Debug\netcoreapp3.0\LearningConcurrent.pdb
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\obj\Debug\netcoreapp3.0\LearningConcurrent.dll
+C:\Users\Jason\source\repos\LearningConcurrent\LearningConcurrent\obj\Debug\netcoreapp3.0\LearningConcurrent.pdb
